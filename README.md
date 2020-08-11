@@ -1,4 +1,4 @@
-# Task Manager
+# Task Manager _ Nico Rithner 08/10/2020
 
 ## CRUD in Rails
 
